@@ -21,7 +21,7 @@ repository               : "rahul-kgupta/rahul-kgupta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "rgupta.png"
+  avatar           : "photo.png"
   name             : "Rahul Gupta"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc"
