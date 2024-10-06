@@ -21,16 +21,25 @@ Research Interests
 
 Education
 ======
-- Ph.D., Electrical EngineeringSwiss Federal Institute of Technology – EPFL, Switzerland (Jan 2023) Thesis link
+- Ph.D., Electrical Engineering Swiss Federal Institute of Technology – EPFL, Switzerland (Jan 2023) [Thesis link](https://infoscience.epfl.ch/record/299705)
 - M.Sc., Electrical EngineeringSwiss Federal Institute of Technology – EPFL, Switzerland (July 2018)
 - B.Tech., Electrical EngineeringNational Institute of Technology, Rourkela, India (July 2014)
 
 
-News
+Honors and Awards
 ------
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Awarded **Swiss National Science Foundation Postdoc Mobility Grant** for postdoctoral stay at Georgia Tech.
+- Awarded **EPFL PhD thesis Distinction in Electrical Engineering 2023** (awarded to the 8% best PhD theses of
+each EPFL Doctoral Programme).
+- Finalist in the **Grid Edge Technologies Dissertation Prize Challenge 2023** and nominated for the ABB Thesis
+Award 2024, EPFL for my Ph.D. thesis.
+- Awarded **Zanelli: technologie et développement durable prize 2018** for the best master project in the field of
+sustainable development: environment, economy or society, EPFL, Switzerland.
+- **J.N. Tata Endowment Award** and **K. C. Mahindra Scholarship** for financing master studies at EPFL.
+- **Ashim Choudhury Memorial Gold Medal** for overall academic topper among all the undergraduate Electrical
+Engineering Students of 2014 batch, NIT Rourkela.
+- **Institute Silver Medal** for academic topper among Students of 2014 batch, NIT Rourkela, India.
+- **Sugat Kishore Mall Memorial Award** for the best graduate in the electrical engineering batch of 2014, NIT
+Rourkela, India.
+- **DAAD WISE-2013 Scholarship** (Deutscher Akademischer Austausch Dienst), (German Academic Exchange
+Service) for an internship at the University of Bremen, Germany.
