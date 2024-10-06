@@ -12,7 +12,7 @@ I currently hold the position of a postdoctoral researcher within the Department
 My research revolves around the domain of “Control and Optimization of Active Distribution Networks in the Presence of Uncertainties.” My primary objective is to devise methodologies that enable distribution grids to operate safely in the face of stochastic renewable energy sources.
 
 Research Interests
-======
+------
 - Power System Optimization, Control and Planning of Distributed Energy Resources, Optimal Power Flow
 - Distributed Optimization, ADMM
 - Electric Vehicle Control and Planning
@@ -20,7 +20,7 @@ Research Interests
 - Data-driven Control, Model-less Control Schemes
 
 Education
-======
+------
 - Ph.D., Electrical Engineering Swiss Federal Institute of Technology – EPFL, Switzerland (Jan 2023) [Thesis link](https://infoscience.epfl.ch/record/299705)
 - M.Sc., Electrical EngineeringSwiss Federal Institute of Technology – EPFL, Switzerland (July 2018)
 - B.Tech., Electrical EngineeringNational Institute of Technology, Rourkela, India (July 2014)
