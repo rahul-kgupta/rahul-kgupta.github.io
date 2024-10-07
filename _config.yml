@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rahul's Homepage"
+title                    : "Rahul K. Gupta"
 title_separator          : "-"
 name                     : &name "Rahul Gupta"
 description              : &description "personal description"
@@ -22,11 +22,9 @@ repository               : "rahul-kgupta/rahul-kgupta.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Rahul Gupta"
+  name             : "Contact information"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc"
-  location         : "USA"
-  employer         : "Georgia Tech"
+  location         : "E1217, CODA Building, 756 W Peachtree St NW, GTech, Atlanta, USA."
   uri              : # URL
   email            : "rahul.gupta@gatech.edu" 
 
