@@ -24,7 +24,7 @@ author:
   avatar           : "photo.png"
   name             : "Contact information"
   pronouns         : # example: "she/her"  
-  location         : "E1217, CODA Building, 756 W Peachtree St NW, GTech, Atlanta, USA."
+  location         : "E1217, CODA Building, GTech, Atlanta, USA."
   uri              : # URL
   email            : "rahul.gupta@gatech.edu" 
 
