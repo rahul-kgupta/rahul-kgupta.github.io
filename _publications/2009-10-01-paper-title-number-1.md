@@ -1,5 +1,4 @@
 ---
-title: "Measurement-based/Model-less Estimation of Voltage Sensitivity Coefficients by Feedforward and LSTM Neural Networks in Power Distribution Grids"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
