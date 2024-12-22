@@ -1,17 +1,17 @@
-title:            Jordi Pont-Tuset's site
+title:            Rahul Gupta's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:              //rahul-kgupta.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: jponttuset
+disqus_shortname: rahul-kgupta
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
+  name:           Rahul Gupta
+  avatar:         
   bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  email:          rahulgupta.nitrkl@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: jponttuset
   linkedin: jponttuset
