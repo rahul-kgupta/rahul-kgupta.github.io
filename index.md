@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: "About"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: home2
+title: Me in a Nutshell
+description: "Rahul Gupta's website"
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: trees.jpg
 ---
 
 I currently hold the position of a postdoctoral researcher within the Department of Electrical and Computer Engineering at the Georgia Institute of Technology. Prior to this role, I earned my Doctor of Philosophy (PhD) and Master’s degree in Electrical Engineering from the Swiss Federal Institute of Technology, located in Lausanne, Switzerland, in the years 2023 and 2018, respectively.
