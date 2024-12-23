@@ -1,6 +1,6 @@
 # Rahul Gupta's site
 
-This site is based on the **[Jordi Pont-Tuset's site](https://jponttuset.cat/)** **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog.
+This site is based on the **[Jordi Pont-Tuset's site](https://jponttuset.cat/)** and **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog.
 
 
 ## License
