@@ -1,6 +1,6 @@
 ---
-layout: home
-permalink: /biography/
+layout: page
+permalink: /bio/
 title: My CV
 tags: [about]
 modified: 24-12-2024
