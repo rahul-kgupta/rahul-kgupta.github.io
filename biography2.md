@@ -7,8 +7,7 @@ modified: 24-12-2024
 comments: false
 ---
 
-I was born and raised in a picturesque village in the north-central-eastern part of India called **Hariharganj**. A fun fact about my birthplace: it's located just 50 kilometers from **Bodh Gaya**, the sacred site where Buddha attained enlightenment! This connection to Buddha runs deeper for me, as my name, **Rahul**, happens to be the name of Buddha’s son (he was still Siddhartha before his enlightenment). So, you could say I’ve carried a little piece of Buddhist heritage with me since birth.  
-
+I was born and raised in a picturesque village in the north-central-eastern part of India called **Hariharganj**. A fun fact about my birthplace: it's located just 50 kilometers from **Bodh Gaya**, the sacred site where Buddha attained enlightenment! This connection to Buddha runs deeper for me, as my name, **Rahul**, happens to be the name of Buddha’s son (he was still Siddhartha before his enlightenment). So, you could say I’ve carried a little piece of Buddhist heritage with me since birth.                                                                                      
 
 Growing up in Hariharganj, my childhood was immersed in the charm of rural life. I attended a government school there until 10th grade, after which my academic journey took me to **Ranchi**, where I completed my higher secondary education at **St. Xavier’s College**.  
 
