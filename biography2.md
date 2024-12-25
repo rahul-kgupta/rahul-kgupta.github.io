@@ -7,18 +7,23 @@ modified: 24-12-2024
 comments: false
 ---
 
+I was born and raised in a picturesque village in the north-central-eastern part of India called **Hariharganj**. A fun fact about my birthplace: it's located just 50 kilometers from **Bodh Gaya**, the sacred site where Buddha attained enlightenment! This connection to Buddha runs deeper for me, as my name, **Rahul**, happens to be the name of Buddha’s son (he was still Siddhartha before his enlightenment). So, you could say I’ve carried a little piece of Buddhist heritage with me since birth.  
+---
 
-I was born and grew up in a village in the north, centre-east part of India, named Hariharganj. The fun fact is that this my Birthplace is around 50km from the place where Buddha got the Enlightenment. Another fact that relates to Buddha is my name "Rahul" which was the name of the Buddha's son (actually Siddhartha then before the enlightment). So, I am actually names after Buddha's son :)
+Growing up in Hariharganj, my childhood was immersed in the charm of rural life. I attended a government school there until 10th grade, after which my academic journey took me to **Ranchi**, where I completed my higher secondary education at **St. Xavier’s College**.  
+---
 
-I spent most of my childhood in the village, did my schooling at a Government school till class 10th, then moved to Ranchi, where I completed my Intermediate (higher secondary) from St. Xaviers College, Ranchi. 
+Following the footsteps of my brothers, I aspired to become an engineer. This dream led me to pursue my undergraduate degree in **Electrical Engineering** at the prestigious **National Institute of Technology (NIT), Rourkela**. My time there was transformative—I fell in love with the world of research, thanks to an inspiring course on **Electric Machines and Power Electronics**. This was my first taste of academic exploration, and it planted the seed of curiosity that would define my career.  
+---
 
-Following my brothers, I also wanted to become an Engineer, so I did my undergrad at National Institute of Technology (NIT) Rourkela in Electrical Engg. This period truely was first encounter with research as a undergrad researcher, where I got inspired by a class on Electric Machines and Power Electronics. This inspired to purse higher studies. 
+Eager to dive deeper, my next stop was **Singapore**, where I gained valuable research experience in **power electronics** and **microelectronics**. These years taught me the rigor of scientific research and helped me chart my path forward: a Master’s degree. 
+---
 
-My next destination was Singapore, where I got some research experience in power electronics as well in the micro-electronics. During this period, I learnt about research in general and helped me decide my next step to puruse masters. 
+For my master’s, I moved to **Switzerland**, enrolling in an MSc in **Electrical Engineering** with a focus on **Smart Grid Technologies** at the renowned **École Polytechnique Fédérale de Lausanne (EPFL)**. Those two years in Switzerland were nothing short of life-changing. The Swiss education system captivated me, particularly the balance of theory and practice in courses like **Smart Grid Technologies** (taught by Prof. Mario Paolone and Prof. Jean-Yves Le Boudec) and **Industrial Electronics** (led by Prof. Drazen Dujic). These experiences profoundly influenced not just my knowledge, but also my teaching philosophy.  
+---
 
-For masters, I moved to Switzerland, where I completed MSc in Electrical Engg. with orientation in Smart Grids Technologies. I would say the two years at EPFL was life changing for me, I really loved the Swiss education system and the course work at EPFL. My favourites course were Smart grids technolgies instructed by Prof. Mario Paolone and Prof. Jean-Yves Le Boundec and Industrial Electronics instructed by Prof. Drazen Dujic. This is the first time, I had taken course that had perfect mix of theoretical and practical knowledge, this experience has shaped my teaching philosphy. 
+My growing fascination with **Smart Grids** naturally led me to pursue a Ph.D. under the mentorship of **Prof. Mario Paolone** at EPFL, within the **Distributed Electrical Systems Laboratory**. ...  
 
-During my masters, I got really interested in Smart grids and joined to PhD program under the guidance of Prof. Mario Paolone at EPFL who is the head of Distributed Electrical Systems Laboratory. ... 
 
 
 
