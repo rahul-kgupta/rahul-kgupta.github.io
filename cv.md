@@ -1,9 +1,9 @@
 ---
-layout: cv
-permalink: /cv/
+layout: home
+permalink: /biography/
 title: My CV
 tags: [about]
-modified: 18-10-2014
+modified: 24-12-2024
 comments: false
 ---
 
