@@ -25,7 +25,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Biography
-    url: /bio/
+    url: /biography2/
   - title: Publications
     url: /publications/
   - title: Code
