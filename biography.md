@@ -1,7 +1,7 @@
 ---
-layout: page
-permalink: /bio/
-title: My CV
+layout: home2
+permalink: /biography2/
+title: Biography
 tags: [about]
 modified: 24-12-2024
 comments: false
