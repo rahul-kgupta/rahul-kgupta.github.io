@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: About Me
+title: About
 description: "Rahul Gupta's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
