@@ -24,14 +24,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Biography
-    url: /biography2/
+  - title: Research
+    url: /research/
   - title: Publications
     url: /publications/
-  - title: Codes & Dataset
+  - title: Codes + Dataset
     url: /code/
-  - title: Blog
-    url: /blog/
+  - title: Biography
+    url: /biography2/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
