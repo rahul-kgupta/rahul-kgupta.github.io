@@ -20,20 +20,20 @@
 
 /* You can define custom styles for plstyle field here. */
 
+
 /*************************************
  The box that contain BibTeX code
  *************************************/
 div.noshow { display: none; }
 div.bibtex {
-    margin-right: 0%;
-    margin-top: 1.2em;
-    margin-bottom: 1em;
-    border: 1px solid silver;
-    padding: 0em 1em;
-    background: #ffffee;
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
 }
-div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}
-</style>
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
 <script type="text/javascript">
     <!--
     // Toggle Display of BibTeX
@@ -48,31 +48,38 @@ div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;
         }
     }
 -->
-</script>
+    </script>
 
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
 
-<div id="main" role="main">
-  <!-- Table of Contents -->
-  <nav id="toc">
-    <h2>Table of Contents</h2>
-    <ul>
-      <li><a href="#preprints">Preprints</a></li>
-      <li><a href="#journal-publications">Top-Tier Journal Publications</a></li>
-      <li><a href="#conference-publications">Conference Publications</a></li>
-    </ul>
-  </nav>
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
 
+<div id="main" role="main">
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
-
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
+
 
 <h4 style="margin-bottom:0px;padding-top:10px;">Preprints</h4>
 <ul class="biblist">
