@@ -29,7 +29,8 @@ With the growing integration of stochastic renewable generation and adaptable re
 ### Synthetic Networks Generation
 My research also looks at synthetic network generation of the power systems to tackle the problem of realistic network data. My previous work  developed the first synthetic representation of the Swiss distribution systems to tackle the lack of realistic data and is made publicly available. Then it was used to perform a countrywide optimization of the solar hosting capacity of Swiss distribution systems and optimal planning of energy storage systems that would be required to exceed the solar hosting capacity limits of existing power networks.
 
-![Countrywide_plan3](https://github.com/user-attachments/assets/b014c8de-ba8a-4710-96bf-98cd076ebcca)
+
+![Countrywide_plan](https://github.com/user-attachments/assets/8982d8dc-fc77-48b3-8032-133c5323a1d8)
 
 
 
