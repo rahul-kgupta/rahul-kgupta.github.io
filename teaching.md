@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: About
+title: Courses
 description: "Course"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
