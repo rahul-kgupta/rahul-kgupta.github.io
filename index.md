@@ -19,9 +19,9 @@ Research Interests
 
 Education
 ------
-- Ph.D., Electrical Engineering Swiss Federal Institute of Technology – EPFL, Switzerland (Jan 2023) [Thesis link](https://infoscience.epfl.ch/record/299705)
-- M.Sc., Electrical EngineeringSwiss Federal Institute of Technology – EPFL, Switzerland (July 2018)
-- B.Tech., Electrical EngineeringNational Institute of Technology, Rourkela, India (July 2014)
+- Ph.D., Electrical Engineering, Swiss Federal Institute of Technology – EPFL, Switzerland (Jan 2023) [Thesis link](https://infoscience.epfl.ch/record/299705)
+- M.Sc., Electrical Engineering, Swiss Federal Institute of Technology – EPFL, Switzerland (July 2018)
+- B.Tech., Electrical Engineering, National Institute of Technology, Rourkela, India (July 2014)
 
 
 Honors and Awards
