@@ -5,23 +5,19 @@ description: "Rahul Gupta's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I currently hold the position of a postdoctoral researcher within the Department of Electrical and Computer Engineering at the Georgia Institute of Technology. Prior to this role, I earned my Doctor of Philosophy (PhD) and Master’s degree in Electrical Engineering from the Swiss Federal Institute of Technology, located in Lausanne, Switzerland, in the years 2023 and 2018, respectively.
+I currently hold the position of an Assistant Professor at the School of Electrical Engineering & Computer Science, Washinton State University. Prior to this role, I was a postdoctoral researcher within the Department of Electrical and Computer Engineering at the Georgia Institute of Technology. I earned my Doctor of Philosophy (PhD) and Master’s degree in Electrical Engineering from the Swiss Federal Institute of Technology, located in Lausanne, Switzerland, in the years 2023 and 2018, respectively.
 
-My research revolves around the domain of “Control and Optimization of Active Distribution Networks in the Presence of Uncertainties.” My primary objective is to devise methodologies that enable distribution grids to operate safely in the face of stochastic renewable energy sources.
-
-Research Interests
-------
-- Power System Optimization, Control and Planning of Distributed Energy Resources, Optimal Power Flow
-- Distributed Optimization, ADMM
-- Electric Vehicle Control and Planning
-- Synthetic Networks, Hosting Capacity Analysis
-- Data-driven Control, Model-less Control Schemes
+My research revolves around the domain of “Control and Optimization of Active Distribution Networks in the Presence of Uncertainties.” My primary objective is to devise methodologies that enable distribution grids to operate safely in the face of stochastic renewable energy sources. The key research themes can be found [here](https://rahul-kgupta.github.io/research/)
 
 Education
 ------
 - Ph.D., Electrical Engineering, Swiss Federal Institute of Technology – EPFL, Switzerland (Jan 2023) [Thesis link](https://infoscience.epfl.ch/record/299705)
 - M.Sc., Electrical Engineering, Swiss Federal Institute of Technology – EPFL, Switzerland (July 2018)
 - B.Tech., Electrical Engineering, National Institute of Technology, Rourkela, India (July 2014)
+
+News
+------
+- 01 Aug 2025: Joined EECS, WSU as Tenure-Track Assistant Professor. 
 
 
 Honors and Awards
