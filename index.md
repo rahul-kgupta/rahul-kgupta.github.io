@@ -22,12 +22,12 @@ News
 
 Honors and Awards
 ------
-- Awarded **Swiss National Science Foundation Postdoc Mobility Grant** for postdoctoral stay at Georgia Tech.
-- Awarded **EPFL PhD thesis Distinction in Electrical Engineering 2023** (awarded to the 8% best PhD theses of
+- **Swiss National Science Foundation Postdoc Mobility Grant** for postdoctoral stay at Georgia Tech.
+- **EPFL PhD thesis Distinction in Electrical Engineering 2023** (awarded to the 8% best PhD theses of
 each EPFL Doctoral Programme).
 - Finalist in the **Grid Edge Technologies Dissertation Prize Challenge 2023** and nominated for the ABB Thesis
 Award 2024, EPFL for my Ph.D. thesis.
-- Awarded **Zanelli: technologie et développement durable prize 2018** for the best master project in the field of
+- **Zanelli: technologie et développement durable prize 2018** for the best master project in the field of
 sustainable development: environment, economy or society, EPFL, Switzerland.
 - **J.N. Tata Endowment Award** and **K. C. Mahindra Scholarship** for financing master studies at EPFL.
 - **Ashim Choudhury Memorial Gold Medal** for overall academic topper among all the undergraduate Electrical
