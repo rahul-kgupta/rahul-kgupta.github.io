@@ -5,11 +5,11 @@ description: "Rahul Gupta's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I currently hold the position of an Assistant Professor at the School of Electrical Engineering & Computer Science, Washinton State University. Prior to this role, I was a postdoctoral researcher (supervisor: Prof. Daniel Molzahn) within the Department of Electrical and Computer Engineering at the Georgia Institute of Technology.
+I currently hold the position of an Assistant Professor at the School of Electrical Engineering & Computer Science, Washinton State University. Prior to this role, I was a postdoctoral researcher (supervisor: [Prof. Daniel Molzahn](https://molzahn.github.io/)) within the Department of Electrical and Computer Engineering at the Georgia Institute of Technology.
 
 Education
 ------
-- Ph.D., Electrical Engineering, Swiss Federal Institute of Technology – EPFL, Switzerland (Jan 2023) [Thesis link](https://infoscience.epfl.ch/record/299705) (Supervisors: Prof. Mario Paolone, Prof. Fabrizio Sossan)
+- Ph.D., Electrical Engineering, Swiss Federal Institute of Technology – EPFL, Switzerland (Jan 2023) [Thesis link](https://infoscience.epfl.ch/record/299705) (Supervisors: [Prof. Mario Paolone](https://people.epfl.ch/mario.paolone?lang=en), [Prof. Fabrizio Sossan](https://fabriziosossan.com/))
 - M.Sc., Electrical Engineering, Swiss Federal Institute of Technology – EPFL, Switzerland (July 2018)
 - B.Tech., Electrical Engineering, National Institute of Technology, Rourkela, India (July 2014)
 
