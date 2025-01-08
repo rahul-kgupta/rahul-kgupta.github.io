@@ -21,12 +21,11 @@ My group has opening of two Ph.D. students starting this Fall (August, 2025). If
 
 News
 ------
-- Jan 2025: Started delivering course on EE-485: Electric Energy Distribution Systems
-- Jan 2025: Joined EECS, WSU as Tenure-Track Assistant Professor.
-- Dec 2024: The work on "Grid-aware Scheduling and Control of Electric Vehicle Charging Stations for Dispatching Active Distribution Networks: Theory and Experimental Validation" got accepted for publication in IEEE Transactions on Smart Grid.
-- Oct 2024: Gave Invited Seminar at the INFORMS 2024, Seattle
-- May 2024: Participted in Invited Panel Session at SGSMA Conference, Washington 2024.
-
+- January 2025: Began teaching EE-485: Electric Energy Distribution Systems at Washington State University (WSU).
+- January 2025: Joined the Electrical Engineering and Computer Science (EECS) department at WSU as a Tenure-Track Assistant Professor.
+- December 2024: Published the paper "Grid-aware Scheduling and Control of Electric Vehicle Charging Stations for Dispatching Active Distribution Networks: Theory and Experimental Validation" in IEEE Transactions on Smart Grid.
+- October 2024: Delivered an invited seminar at INFORMS 2024, Seattle.
+- May 2024: Participated in an invited panel session at the SGSMA Conference 2024, Washington.
 
 Honors and Awards
 ------
