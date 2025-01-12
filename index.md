@@ -29,7 +29,7 @@ News
 
 Honors and Awards
 ------
-- **Swiss National Science Foundation Postdoc Mobility Grant** for postdoctoral stay at Georgia Tech.
+- **Swiss National Science Foundation Postdoc Mobility Grant** for postdoctoral stay at Georgia Tech [Link](https://data.snf.ch/grants/person/835659).
 - **EPFL PhD thesis Distinction in Electrical Engineering 2023** (awarded to the 8% best PhD theses of
 each EPFL Doctoral Programme).
 - Finalist in the **Grid Edge Technologies Dissertation Prize Challenge 2023** and nominated for the ABB Thesis
