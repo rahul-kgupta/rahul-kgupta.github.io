@@ -21,7 +21,7 @@ My group has opening of two Ph.D. students starting this Fall (August, 2025). If
 
 News
 ------
-- January 2025: Gave a talk on Dispatching Active Distribution Networks by Using Distributed Energy Resources at AGI SP25 Power Seminar Series.
+- January 2025: Gave a talk on Dispatching Active Distribution Networks by Using Distributed Energy Resources at AGI SP25 Power Seminar Series [Recording](https://youtu.be/1Hfn6nO5sog?si=C5C1L4EWDF_KBr8V).
 - January 2025: Began teaching EE-485: Electric Energy Distribution Systems at Washington State University (WSU).
 - January 2025: Joined the Electrical Engineering and Computer Science (EECS) department at WSU as a Tenure-Track Assistant Professor.
 - December 2024: Published the paper "Grid-aware Scheduling and Control of Electric Vehicle Charging Stations for Dispatching Active Distribution Networks: Theory and Experimental Validation" in IEEE Transactions on Smart Grid.
