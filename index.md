@@ -21,6 +21,13 @@ My group has opening of two Ph.D. students starting this Fall (August, 2025). If
 
 News
 ------
+- May 2025: Paper titled "A Bayesian Hierarchical Model for Generating Synthetic Unbalanced Power Distribution Grids" accepted for presentation at the 16th IEEE PowerTech 2025, Kiel, Germany.
+- May 2025: Paper titled "Analysis of Fairness-promoting Optimization Schemes of Photovoltaic Curtailments for Voltage Regulation in Power Distribution Networks" accepted for presentation at the 16th IEEE PowerTech 2025, Kiel, Germany.
+- May 2025: Paper titled "AC-OPF-based Joint Optimal Sizing and Siting of Electric Vehicle Charging Stations and Photovoltaic Plants in Coupled Traffic-Power Networks" accepted for presentation at the 16th IEEE PowerTech 2025, Kiel, Germany.
+- April 2025: Paper titled "Optimizing Battery and Line Undergrounding Investments for Transmission Systems under Wildfire Risk Scenarios: A Benders Decomposition Approach" accepted at 12th Bulk Power System Dynamics and Control Symposium IREP'2025, Sorrento, Italy.
+- April 2025: Paper titled "Forecast-Aided State Estimation in Unbalanced Distribution Networks Using Smart Meter Data under Limited Communication Bandwidth" accepted at 12th Bulk Power System Dynamics and Control Symposium IREP'2025, Sorrento, Italy.
+- March 2025: Paper titled "Optimizing Phase Allocation in Unbalanced Power Distribution Networks using a Linearized DistFlow Formulation" accepted at the 2025 IEEE PES General Meeting, Austin, TX, USA. 
+- Febuary 2025: Article titled "Learning Power Flow Models and Constraints From Time-Synchronized Measurements: A Review" published in the Proceedings of the IEEE. 
 - January 2025: Gave a talk on Dispatching Active Distribution Networks by Using Distributed Energy Resources at AGI SP25 Power Seminar Series [Recording](https://youtu.be/1Hfn6nO5sog?si=C5C1L4EWDF_KBr8V).
 - January 2025: Began teaching EE-485: Electric Energy Distribution Systems at Washington State University (WSU).
 - January 2025: Joined the Electrical Engineering and Computer Science (EECS) department at WSU as a Tenure-Track Assistant Professor.
