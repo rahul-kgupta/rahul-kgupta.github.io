@@ -31,6 +31,8 @@ My work also addresses challenges in data-limited settings by data-driven contro
 ----
 With the growing integration of stochastic renewable generation and adaptable resources in electrical distribution systems, distribution utilities are increasingly eager to improve the visibility of their networks using distribution system state estimation (DSSE). However, scarcity of measurements and a limited communication bandwidth challenges the ability of the distribution utilities to estimate distribution system states. This research tackles this problem by different state and parameter estimation method for distribution networks. 
 
+<img width="4184" height="852" alt="SE" src="https://github.com/user-attachments/assets/17f82b25-7a12-40f7-84fa-1cc8cd039737" />
+
 ### Synthetic Networks Generation
 ----
 My research also looks at synthetic network generation of the power systems to tackle the problem of realistic network data. My previous work developed the first synthetic representation of the Swiss distribution systems to tackle the lack of realistic data and is made publicly available. Then it was used to perform a countrywide optimization of the solar hosting capacity of Swiss distribution systems and optimal planning of energy storage systems that would be required to exceed the solar hosting capacity limits of existing power networks.
