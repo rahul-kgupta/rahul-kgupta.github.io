@@ -4,8 +4,8 @@ title: Courses
 description: "Course"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
-### EE-521: Electric Energy Distribution Systems
-The course covers the concepts and practices of modern power engineering, including steady-state and dynamic analysis, economics and control design. 
+### EE-521: Analysis of Power Systems
+The course covers the concepts and practices of modern power engineering, including steady-state and dynamic analysis, economics and control design. The course specifically covers key computational and mathematical tools required for power system studies. 
 
 **Topic covered:**
 1.	Power Flow Review (Input Data, Ybus and Jacobian matrices)
