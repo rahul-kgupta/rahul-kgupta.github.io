@@ -5,7 +5,12 @@ description: "Rahul Gupta's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I currently hold the position of an [Assistant Professor](https://school.eecs.wsu.edu/research/power-engineering/wsu-profile/rahul.k.gupta/) at the School of Electrical Engineering & Computer Science, Washinton State University. Prior to this role, I was a postdoctoral researcher (supervisor: [Prof. Daniel Molzahn](https://molzahn.github.io/)) within the Department of Electrical and Computer Engineering at the Georgia Institute of Technology.
+I currently hold the position of an [Assistant Professor](https://school.eecs.wsu.edu/research/power-engineering/wsu-profile/rahul.k.gupta/) at the School of Electrical Engineering & Computer Science, Washinton State University. 
+
+Experience
+------
+- Postdoctoral researcher, Electrical and Computer Engineering, Georgia Tech, USA (supervisor: [Prof. Daniel Molzahn](https://molzahn.github.io/)).
+- Postdoctoral researcher, DESL, EPFL, Switzerland (supervisor: [Prof. Mario Paolone](https://people.epfl.ch/mario.paolone?lang=en)).
 
 Education
 ------
