@@ -21,6 +21,7 @@ My group has opening of two Ph.D. students starting this Fall (August, 2025). If
 
 News
 ------
+- July 2025: Paper titled "Improving Fairness in Photovoltaic Curtailment via Feedback-Driven Daily Topology Reconfiguration in Power Distribution Networks" accepted for publication in Applied Energy.
 - May 2025: Paper titled "A Bayesian Hierarchical Model for Generating Synthetic Unbalanced Power Distribution Grids" accepted for presentation at the 16th IEEE PowerTech 2025, Kiel, Germany.
 - May 2025: Paper titled "Analysis of Fairness-promoting Optimization Schemes of Photovoltaic Curtailments for Voltage Regulation in Power Distribution Networks" accepted for presentation at the 16th IEEE PowerTech 2025, Kiel, Germany.
 - May 2025: Paper titled "AC-OPF-based Joint Optimal Sizing and Siting of Electric Vehicle Charging Stations and Photovoltaic Plants in Coupled Traffic-Power Networks" accepted for presentation at the 16th IEEE PowerTech 2025, Kiel, Germany.
