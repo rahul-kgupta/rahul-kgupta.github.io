@@ -26,6 +26,7 @@ My group has opening of two Ph.D. students starting this Fall (August, 2025). If
 
 News
 ------
+- Oct 2025: Paper titled "Linear Phase Balancing Scheme using Voltage Unbalance Sensitivities in Multi-phase Power Distribution Grids" accepted for presentation at the 64th IEEE Conference on Decision and Control, Rio, Brazil, Dec 10-12.
 - July 2025: Paper titled "Improving Fairness in Photovoltaic Curtailment via Feedback-Driven Daily Topology Reconfiguration in Power Distribution Networks" accepted for publication in Applied Energy.
 - May 2025: Paper titled "A Bayesian Hierarchical Model for Generating Synthetic Unbalanced Power Distribution Grids" accepted for presentation at the 16th IEEE PowerTech 2025, Kiel, Germany.
 - May 2025: Paper titled "Analysis of Fairness-promoting Optimization Schemes of Photovoltaic Curtailments for Voltage Regulation in Power Distribution Networks" accepted for presentation at the 16th IEEE PowerTech 2025, Kiel, Germany.
@@ -43,6 +44,7 @@ News
 
 Honors and Awards
 ------
+- **ABB Research Award 2025** with a prize of CHF 10,000 for excellent doctoral work in the fields of energy technology (once in two years)
 - **Swiss National Science Foundation Postdoc Mobility Grant** for postdoctoral stay at Georgia Tech [Link](https://data.snf.ch/grants/person/835659).
 - **EPFL PhD thesis Distinction in Electrical Engineering 2023** (awarded to the 8% best PhD theses of
 each EPFL Doctoral Programme).
