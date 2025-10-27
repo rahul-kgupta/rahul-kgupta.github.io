@@ -22,7 +22,7 @@ The course covers the concepts and practices of modern power engineering, includ
 12.	Optimal Power Flow
     
 The course syllabus can be found at [Link](https://esic.wsu.edu/education/curriculum/)
-<img width="1152" height="768" alt="EE521_image" src="https://github.com/user-attachments/assets/08896951-7d67-45a2-8db0-2e0f52c63ceb" />
+<img width="768" height="512" alt="EE521_image" src="https://github.com/user-attachments/assets/08896951-7d67-45a2-8db0-2e0f52c63ceb" />
 
 
 ### EE-485: Electric Energy Distribution Systems
