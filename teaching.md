@@ -14,11 +14,15 @@ The course covers the concepts and practices of modern power engineering, includ
 4.	Fast Decoupled Algorithm
 5.	Power Flow Controls (Q limits, transformer taps)
 6.	Sparse Matrix Storage and Ordering
-7.	Continuation Power Flow
-8.	State Estimation
-9.	Optimal Power Flow
+7.	Power Flow Sensitivity Factors (PTDF, LODF, etc)
+8.	Contigency Analysis and Blackouts
+9.	Continuation Power Flow and PV curves
+10.	Short-circuit Analysis using Z-bus
+11.	State Estimation
+12.	Optimal Power Flow
     
 The course syllabus can be found at [Link](https://esic.wsu.edu/education/curriculum/)
+<img width="1152" height="768" alt="EE521_image" src="https://github.com/user-attachments/assets/08896951-7d67-45a2-8db0-2e0f52c63ceb" />
 
 
 ### EE-485: Electric Energy Distribution Systems
