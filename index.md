@@ -5,8 +5,8 @@ description: "Rahul Gupta's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I currently hold the position of an [Assistant Professor](https://school.eecs.wsu.edu/research/power-engineering/wsu-profile/rahul.k.gupta/) at the School of Electrical Engineering & Computer Science, Washinton State University. 
-
+I currently hold the position of an [**Assistant Professor**](https://school.eecs.wsu.edu/research/power-engineering/wsu-profile/rahul.k.gupta/) at the School of Electrical Engineering & Computer Science, Washington State University. 
+sfor
 Experience
 ------
 - Postdoctoral researcher, Electrical and Computer Engineering, Georgia Tech, USA (supervisor: [Prof. Daniel Molzahn](https://molzahn.github.io/)).
@@ -22,7 +22,7 @@ My research revolves around the domain of “Control and Optimization of Active 
 
 Current Openings
 -----
-My group has opening of two Ph.D. students starting this Fall (August, 2025). If you are interested in joining my group, please send me your CV, Transcript and a short pargraph stating your motivation.
+My group has opening of two Ph.D. students starting this Fall (August 2025). If you are interested in joining my group, please send me your CV, Transcript, and a short paragraph stating your motivation.
 
 News
 ------
@@ -44,12 +44,11 @@ News
 
 Honors and Awards
 ------
-- **ABB Research Award 2025** with a prize of CHF 10,000 for excellent doctoral work in the fields of energy technology (once in two years)
+- **ABB Research Award 2025** with a prize of CHF 10,000 for excellent doctoral work in the fields of energy technology (once in two years) [Link](https://actu.epfl.ch/news/asea-brown-boveri-ltd-abb-award-2025-rahul-gupta/).
 - **Swiss National Science Foundation Postdoc Mobility Grant** for postdoctoral stay at Georgia Tech [Link](https://data.snf.ch/grants/person/835659).
 - **EPFL PhD thesis Distinction in Electrical Engineering 2023** (awarded to the 8% best PhD theses of
-each EPFL Doctoral Programme).
-- Finalist in the **Grid Edge Technologies Dissertation Prize Challenge 2023** and nominated for the ABB Thesis
-Award 2024, EPFL for my Ph.D. thesis.
+each EPFL Doctoral Programme) [Link](https://actu.epfl.ch/news/2023-doctoral-program-thesis-edee/).
+- Finalist in the **Grid Edge Technologies Dissertation Prize Challenge 2023**.
 - **Zanelli: technologie et développement durable prize 2018** for the best master project in the field of
 sustainable development: environment, economy or society, EPFL, Switzerland.
 - **J.N. Tata Endowment Award** and **K. C. Mahindra Scholarship** for financing master studies at EPFL.
