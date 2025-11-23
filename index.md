@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 I currently hold the position of an [**Assistant Professor**](https://school.eecs.wsu.edu/research/power-engineering/wsu-profile/rahul.k.gupta/) at the School of Electrical Engineering & Computer Science, Washington State University. 
-sfor
+
 Experience
 ------
 - Postdoctoral researcher, Electrical and Computer Engineering, Georgia Tech, USA (supervisor: [Prof. Daniel Molzahn](https://molzahn.github.io/)).
