@@ -26,6 +26,8 @@ My group has opening of two Ph.D. students starting this Fall (August 2025). If 
 
 News
 ------
+- March 2025: Gave a Webinar on "Unlocking EV Charging Flexibility for Dispatching Active Distribution Grids: From Theory to Real-World Deployment", at C2SR Distinguished Webinar Series in Artificial Intelligence and Cyber Security. [Recording](https://www.youtube.com/watch?v=bLGYmiCPW0o)
+- Oct 2025: Gave a PSERC Webinar on "Measurement-based Estimation and Control of Power Distribution Systems: Theory and Experimental Validation" [Recording](https://drive.google.com/file/d/1D4OHY94IYTPjNiSN4Ip6i8DrqcqY9E7V/view?usp=drive_link).
 - Oct 2025: Paper titled "Linear Phase Balancing Scheme using Voltage Unbalance Sensitivities in Multi-phase Power Distribution Grids" accepted for presentation at the 64th IEEE Conference on Decision and Control, Rio, Brazil, Dec 10-12.
 - July 2025: Paper titled "Improving Fairness in Photovoltaic Curtailment via Feedback-Driven Daily Topology Reconfiguration in Power Distribution Networks" accepted for publication in Applied Energy.
 - May 2025: Paper titled "A Bayesian Hierarchical Model for Generating Synthetic Unbalanced Power Distribution Grids" accepted for presentation at the 16th IEEE PowerTech 2025, Kiel, Germany.
@@ -35,7 +37,7 @@ News
 - April 2025: Paper titled "Forecast-Aided State Estimation in Unbalanced Distribution Networks Using Smart Meter Data under Limited Communication Bandwidth" accepted at 12th Bulk Power System Dynamics and Control Symposium IREP'2025, Sorrento, Italy.
 - March 2025: Paper titled "Optimizing Phase Allocation in Unbalanced Power Distribution Networks using a Linearized DistFlow Formulation" accepted at the 2025 IEEE PES General Meeting, Austin, TX, USA. 
 - Febuary 2025: Article titled "Learning Power Flow Models and Constraints From Time-Synchronized Measurements: A Review" published in the Proceedings of the IEEE. 
-- January 2025: Gave a talk on Dispatching Active Distribution Networks by Using Distributed Energy Resources at AGI SP25 Power Seminar Series [Recording](https://youtu.be/1Hfn6nO5sog?si=C5C1L4EWDF_KBr8V).
+- January 2025: Gave a talk on Dispatching Active Distribution Networks by Using Distributed Energy Resources at AGI SP25 Power Seminar Series" [Recording](https://youtu.be/1Hfn6nO5sog?si=C5C1L4EWDF_KBr8V).
 - January 2025: Began teaching EE-485: Electric Energy Distribution Systems at Washington State University (WSU).
 - January 2025: Joined the Electrical Engineering and Computer Science (EECS) department at WSU as a Tenure-Track Assistant Professor.
 - December 2024: Published the paper "Grid-aware Scheduling and Control of Electric Vehicle Charging Stations for Dispatching Active Distribution Networks: Theory and Experimental Validation" in IEEE Transactions on Smart Grid.
