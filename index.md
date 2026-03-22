@@ -26,7 +26,7 @@ My group has opening of two Ph.D. students starting this Fall (August 2025). If 
 
 News
 ------
-- March 2025: Gave a Webinar on "Unlocking EV Charging Flexibility for Dispatching Active Distribution Grids: From Theory to Real-World Deployment", at C2SR Distinguished Webinar Series in Artificial Intelligence and Cyber Security. [Recording](https://www.youtube.com/watch?v=bLGYmiCPW0o)
+- March 2026: Gave a Webinar on "Unlocking EV Charging Flexibility for Dispatching Active Distribution Grids: From Theory to Real-World Deployment", at C2SR Distinguished Webinar Series in Artificial Intelligence and Cyber Security. [Recording](https://www.youtube.com/watch?v=bLGYmiCPW0o)
 - Oct 2025: Gave a PSERC Webinar on "Measurement-based Estimation and Control of Power Distribution Systems: Theory and Experimental Validation" [Recording](https://drive.google.com/file/d/1D4OHY94IYTPjNiSN4Ip6i8DrqcqY9E7V/view?usp=drive_link).
 - Oct 2025: Paper titled "Linear Phase Balancing Scheme using Voltage Unbalance Sensitivities in Multi-phase Power Distribution Grids" accepted for presentation at the 64th IEEE Conference on Decision and Control, Rio, Brazil, Dec 10-12.
 - July 2025: Paper titled "Improving Fairness in Photovoltaic Curtailment via Feedback-Driven Daily Topology Reconfiguration in Power Distribution Networks" accepted for publication in Applied Energy.
