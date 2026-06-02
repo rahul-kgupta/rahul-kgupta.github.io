@@ -5,12 +5,13 @@ description: "Rahul Gupta's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I currently hold the position of an [**Assistant Professor**](https://school.eecs.wsu.edu/research/power-engineering/wsu-profile/rahul.k.gupta/) at the School of Electrical Engineering & Computer Science, Washington State University. 
+I currently hold the position of an [**Assistant Professor**](https://people.epfl.ch/rahul.gupta) of Electrical and Micro Engineering at the School of Engineering (STI) at the École Polytechnique Fédérale de Lausanne (EPFL) and leads the Grid-Integrated  Energy Storage Systems (GRID-ESS) Lab
 
 Experience
 ------
-- Postdoctoral researcher, Electrical and Computer Engineering, Georgia Tech, USA (supervisor: [Prof. Daniel Molzahn](https://molzahn.github.io/)).
-- Postdoctoral researcher, DESL, EPFL, Switzerland (supervisor: [Prof. Mario Paolone](https://people.epfl.ch/mario.paolone?lang=en)).
+- Jan 2025 - May 2026: Assistant Professor, Electrical Engg. and Computer Science, Washington State University, USA. 
+- Oct 2023 - Dec 2025: Postdoctoral researcher, Electrical and Computer Engineering, Georgia Tech, USA (supervisor: [Prof. Daniel Molzahn](https://molzahn.github.io/)).
+- Feb 2023 - Sept 2023 Postdoctoral researcher, DESL, EPFL, Switzerland (supervisor: [Prof. Mario Paolone](https://people.epfl.ch/mario.paolone?lang=en)).
 
 Education
 ------
