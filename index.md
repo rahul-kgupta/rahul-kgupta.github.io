@@ -23,7 +23,7 @@ My research revolves around the domain of “Control and Optimization of Active 
 
 Current Openings
 -----
-My group has opening of two Ph.D. students starting this Fall (August 2025). If you are interested in joining my group, please send me your CV, Transcript, and a short paragraph stating your motivation.
+My group has opening of two Ph.D. students. If you are interested in joining my group, please send me your CV, Transcript, and a short paragraph stating your motivation.
 
 News
 ------
